@@ -1,0 +1,18 @@
+
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(É¾„´şÿÿÿÿ8Ë´Ò˜/
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(É¾„´şÿÿÿÿ8Ë´Ò˜/
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(íÍ´¤8‰úĞÒ˜/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ñú’ç/
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Ñú’ç/
+b
+java:S1128"@Remove this unused import 'com.example.diplomapp.entities.Task'.(Ù˜À—ûÿÿÿÿ8Ñú’ç/
+b
+java:S1128"@Remove this unused import 'com.example.diplomapp.entities.User'.(¥±éÿÿÿÿÿ8Ñú’ç/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ñú’ç/
